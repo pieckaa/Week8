@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+xgm5SZakaHX2Sl/kM1jXF9v+HihDxGFySGtO1icdeZSpyvRqvn5s8CycWyd1z8ynVpRc2W62S0B++WFd09sgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Week8\\Week8\\Week8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
